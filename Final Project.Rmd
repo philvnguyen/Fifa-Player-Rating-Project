@@ -1,0 +1,308 @@
+---
+title: "MATH 242 - Final Project"
+author: "Ziad and Phil"
+date: "11/29/2017"
+output:
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=TRUE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(ggplot2)
+library(Hmisc)
+library(ggthemes)
+library(knitr)
+library(readr)
+library(MASS)
+```
+
+
+```{r}
+setwd("D:/College Study/MATH 242 - Applied Stats/Final Project")
+EPL_Data<-read.csv("EPL_Data.csv", header = TRUE)
+
+EPL_Data$position_cat <- factor(EPL_Data$position_cat,
+                         levels = c(1,2,3,4),
+                         labels = c("Attackers","Midfielders", "Defenders", "GoalKeepers"))
+
+EPL_Data$region <- factor(EPL_Data$region,
+                         levels = c(1,2,3,4),
+                         labels = c("England","Europe", "America", "Rest of the World"))
+
+EPL_Data$age_cat <- factor(EPL_Data$age_cat,
+                         levels = c(1,2,3,4,5,6),
+                         labels = c("18-21","22-24", "25-27", "28-31","32-34","35-above"))
+```
+
+
+# Explore Data
+
+
+###Summary of players value and wage (by position groups)
+
+```{r}
+position_sum <- EPL_Data %>%
+  group_by(position_cat) %>%
+  summarise(Mean_Value = mean(eur_value), Min_Value = min(eur_value), Highest_Value = max(eur_value))
+
+
+show(position_sum)
+```
+
+###Player Values Distribution by Position
+
+```{r}
+EPL_Data %>%
+  ggplot(aes(x = position_cat, y = eur_value, colour = position_cat)) +
+  geom_boxplot(alpha = 0.3, draw_quantiles = c(0.25, 0.5, 0.75)) + 
+  geom_jitter(width = 0.2, height = 0, alpha = 0.2) +
+  labs(x = "Position", y = "Market Value (euro)", colour = "Position", 
+       title = "Player's Value Boxplots by Position") +
+  theme_minimal()
+```
+
+###Summary of players value and wage (by regions)
+
+```{r}
+region_sum <- EPL_Data %>%
+  group_by(region) %>%
+  summarise(Mean_Value = mean(eur_value), Mean_Salary = mean(eur_wage), Highest_Value = max(eur_value))
+
+
+show(region_sum)
+```
+
+###Player Values Distribution by Region
+
+```{r}
+EPL_Data %>%
+  ggplot(aes(x = region, y = eur_value, colour = region)) +
+  geom_boxplot() + 
+  geom_jitter(width = 0.2, height = 0, alpha = 0.2) +
+  labs(x = "Region", y = "Market Value (euro)", colour = "Region", 
+       title = "Player's Value Distribution by Region") +
+  theme_minimal()
+```
+
+###Player Values by Club and Age
+
+```{r}
+ageclub_sum <- EPL_Data %>%
+  group_by(age_cat,big_club) %>%
+  summarise(Mean_Value = mean(eur_value), Mean_Salary = mean(eur_wage), Highest_Value = max(eur_value))
+
+
+show(ageclub_sum)
+```
+
+#Illustration of player' value by club and age
+
+```{r}
+EPL_Data %>% 
+  group_by(age_cat, big_club) %>% 
+  summarise(mean = mean(eur_value)) %>% 
+  ggplot(aes(x = big_club, y = mean, fill = age_cat)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(x = "Big Clubs vs Small Clubs", y = "Average Value (euro)", fill = "Age Groups",
+       title = "Comparison of Player's Value by Clubs and Age") +
+  theme_minimal()
+```
+
+# Statistical Analysis
+
+
+##1. Player's Value and Their Overall stat in FIFA
+
+```{r}
+EPL_Data %>% 
+  ggplot(aes(overall,eur_value)) + geom_point() +
+  labs(x = "Overall Stats", y = "Player's Value (euro)", title = "Relationship between Player's Value and Overall Stats") + theme(plot.title = element_text(hjust = 0.5)) + theme_tufte()
+```
+
+#Regression model with overall stats
+
+```{r}
+model1 = lm(sqrt(eur_value)~log(overall), EPL_Data)
+summary(model1)
+```
+
+###Regression model with all the detailed stats
+
+```{r}
+model2 <- lm(log(eur_value)~pac + sho + pas + dri + def + pas, EPL_Data)
+summary(model2)
+```
+
+###Create grouped data by positions
+
+```{r}
+#Group1
+Group_Attack<-
+  EPL_Data%>%
+  filter(EPL_Data$position_cat == "Attackers")
+#Group2
+Group_Mid<-
+  EPL_Data%>%
+  filter(EPL_Data$position_cat == "Midfielders")
+#Group3
+Group_Defense<-
+  EPL_Data%>%
+  filter(EPL_Data$position_cat == "Defenders")
+```
+
+```{r}
+regatt <- lm(log(eur_value)~ pac+sho+dri+pas+phy, Group_Attack)
+summary(regatt)
+```
+
+```{r}
+regcm <- lm(log(eur_value)~ sho+pas+dri+phy, Group_Mid)
+summary(regcm)
+```
+
+```{r}
+regdef <- lm(log(eur_value)~ def+phy+pas, Group_Defense)
+summary(regdef)
+```
+
+##Player's Value vs Age
+
+```{r}
+EPL_Data %>% 
+  ggplot(aes(age,eur_value)) + geom_jitter() +
+  labs(x = "Age", y = "Player's Value (euro)", title = "Relationship between Player's Value and Age") + theme(plot.title = element_text(hjust = 0.5)) + theme_minimal()
+```
+
+```{r}
+EPL_Data$agesq = EPL_Data$age*EPL_Data$age
+reg_age <- lm(sqrt(eur_value)~age+agesq, EPL_Data)
+summary(reg_age)
+```
+
+##Player's Value vs Popularity
+
+```{r}
+EPL_Data %>% 
+  ggplot(aes(sqrt(page_views),sqrt(eur_value))) + geom_jitter() +
+  labs(x = "Page Views", y = "Player's Value (euro)", title = "Relationship between Player's Value and Popularity") + theme(plot.title = element_text(hjust = 0.5)) + theme_minimal()
+```
+
+
+###Player's value vs Fpl_point
+
+```{r}
+EPL_Data %>% 
+  ggplot(aes(fpl_value,eur_value)) + geom_jitter() +
+  labs(x = "Fantasy Premier League value", y = "Player's Value (euro)", title = "Relationship between Player's Value and Their Fantasy League Value") + theme(plot.title = element_text(hjust = 0.5)) + theme_minimal()
+```
+
+```{r}
+EPL_Data %>% 
+  ggplot(aes(eur_wage,eur_value)) + geom_jitter() +
+  labs(x = "Player's Wage", y = "Player's Value (euro)", title = "Relationship between Player's Value and Their Wage") + theme(plot.title = element_text(hjust = 0.5)) + theme_minimal()
+```
+
+```{r}
+EPL_Data %>% 
+  ggplot(aes(international_reputation,eur_value)) + geom_jitter() +
+  labs(x = "International Reputation", y = "Player's Value (euro)", title = "Relationship between Player's Value and Their international Reputation") + theme(plot.title = element_text(hjust = 0.5)) + theme_minimal()
+```
+
+
+```{r}
+step = stepAIC(lm(sqrt(eur_value)~1,data=EPL_Data),scope=~ sqrt(eur_wage) + sqrt(page_views) + log(overall) + sho + dri + def + fpl_value + age + agesq + fpl_points + as.factor(region) + new_foreign + new_signing + as.factor(preferred_foot) + big_club + as.factor(position_cat) + page_views*new_signing + international_reputation*new_signing + height_cm*weight_kg, direction="forward")
+step$anova # display summarized results
+```
+
+
+```{r}
+modeltest <- lm(sqrt(eur_value) ~ sqrt(eur_wage) + log(overall) + age + agesq + fpl_value + international_reputation + as.factor(position_cat) + big_club + sho, EPL_Data)
+
+summary(modeltest)
+```
+
+
+```{r}
+bestmodel <- lm(sqrt(eur_value) ~ eur_wage + log(overall) + age + agesq + fpl_value + 
+    as.factor(position_cat) + big_club, EPL_Data)
+
+summary(bestmodel)
+```
+
+
+###Assumption1:
+
+```{r}
+residual1 <- EPL_Data %>% mutate(resid1 = resid(bestmodel))
+
+residual1 %>%
+  ggplot(aes(eur_wage, resid1)) +
+  geom_point(colour = "blue") + geom_hline(yintercept = 0)
+```
+
+
+###Assumption 2:
+```{r}
+resbm <- bestmodel$res
+qqnorm(resbm)
+qqline(resbm)
+```
+
+
+
+```{r}
+EPL_Data$Predicted <- fitted(bestmodel)^2
+EPL_Data$Residual <- EPL_Data$eur_value - EPL_Data$Predicted
+
+
+table_value <- EPL_Data %>% filter(big_club ==1)
+
+table_value <- subset(table_value, select=c(name,club,eur_value,Predicted,Residual, fpl_points))
+```
+
+```{r}
+#quantile(table_value$Predicted)
+
+summary(table_value$Residual)
+```
+
+```{r}
+overvalued_player <- table_value %>% filter(Residual > 2.273)
+
+overvalued_player <- subset(overvalued_player, select=c(name,club,eur_value,Predicted,fpl_points, Residual))
+
+overvalued_player
+```
+
+
+```{r}
+value_sum <- table_value %>%
+  group_by(club) %>%
+  summarise(Overvalued = sum(Residual > 2.273))
+
+
+show(value_sum)
+```
+
+```{r}
+overvalued_percentage <- table_value %>%
+  group_by(club) %>%
+  summarise(Percentage = sum(fpl_points[Residual> 2.273])/sum(fpl_points))
+
+overvalued_percentage
+```
+
+
+
+
+
+
+
+
+
+
+
+
+

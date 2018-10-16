@@ -1,0 +1,464 @@
+name,club,age,special,height_cm,weight_kg,eur_value,eur_wage,overall,pac,sho,pas,dri,def,phy,international_reputation,preferred_foot
+Aaron Ramsey,Arsenal,26,2114,183,76,25500000,130000,82,68,75,79,81,65,75,3,Right
+Alex Iwobi,Arsenal,21,1698,180,75,9500000,64000,74,78,61,66,82,28,65,1,Right
+Alexandre Lacazette,Arsenal,26,2063,175,73,48500000,180000,85,86,83,71,85,38,77,3,Right
+Alexis Sanchez,Arsenal,28,2181,169,62,67500000,265000,89,86,84,80,89,40,78,4,Right
+Calum Chambers,Arsenal,22,1878,183,66,9000000,64000,75,64,51,66,69,75,76,1,Right
+Danny Welbeck,Arsenal,26,1972,185,73,17500000,130000,80,84,74,71,79,37,78,3,Right
+David Ospina,Arsenal,28,1159,183,80,9000000,91000,79,83,71,78,84,34,77,2,Right
+Francis Coquelin,Arsenal,26,1965,178,74,12000000,110000,79,66,52,67,75,78,80,2,Right
+Granit Xhaka,Arsenal,24,1991,185,82,27500000,110000,82,50,66,79,72,72,78,3,Left
+Hector Bellerin,Arsenal,22,2005,178,74,21000000,91000,81,95,51,69,78,75,70,3,Right
+Jack Wilshere,Arsenal,25,2102,172,68,22000000,115000,81,71,69,80,82,62,72,3,Left
+Laurent Koscielny,Arsenal,31,1866,186,75,21000000,150000,84,75,41,62,65,85,78,3,Right
+Mesut Ozil,Arsenal,28,1927,180,76,60000000,265000,88,71,74,87,86,24,58,4,Left
+Mohamed Elneny,Arsenal,24,1959,180,70,10000000,76000,77,60,61,73,70,72,78,1,Right
+Nacho Monreal,Arsenal,31,2021,179,72,10000000,110000,80,76,53,72,75,80,74,2,Left
+Olivier Giroud,Arsenal,30,1933,192,88,21500000,140000,82,53,81,70,73,38,83,3,Left
+Per Mertesacker,Arsenal,32,1558,198,90,10000000,110000,81,27,41,55,47,85,70,3,Right
+Petr Cech,Arsenal,35,1206,196,90,10500000,92000,86,82,87,76,81,42,83,4,Left
+Rob Holding,Arsenal,21,1654,189,75,5500000,40000,72,62,34,53,65,73,74,1,Right
+Santi Cazorla,Arsenal,32,2120,168,66,19500000,130000,83,65,76,85,85,61,63,3,Right
+Sead Kolasinac,Arsenal,24,1888,183,85,15500000,91000,80,78,53,61,64,78,89,2,Left
+Shkodran Mustafi,Arsenal,25,1942,184,82,31500000,145000,84,67,57,63,62,83,79,3,Right
+Theo Walcott,Arsenal,28,1976,176,68,15000000,125000,80,91,75,72,80,38,66,3,Right
+Adam Federici,Bournemouth,32,1293,188,90,2300000,41000,73,73,69,78,73,47,70,1,Right
+Adam Smith,Bournemouth,26,1903,180,78,4100000,51000,73,76,55,69,73,71,69,1,Right
+Andrew Surman,Bournemouth,30,1947,178,73,6000000,56000,75,61,64,75,72,64,71,1,Left
+Artur Boruc,Bournemouth,37,1172,193,87,600000,32000,77,77,73,62,82,38,77,2,Right
+Asmir Begovic,Bournemouth,30,1233,199,83,14000000,64000,82,81,81,73,82,55,79,3,Right
+Benik Afobe,Bournemouth,24,1776,183,78,7500000,53000,74,80,73,60,71,26,72,1,Right
+Brad Smith,Bournemouth,23,1686,177,70,700000,13000,65,83,43,61,59,56,68,1,Left
+Callum Wilson,Bournemouth,25,1870,180,66,8500000,58000,75,90,73,63,74,34,76,1,Right
+Charlie Daniels,Bournemouth,30,1983,178,75,4800000,51000,75,76,55,72,74,72,70,1,Left
+Dan Gosling,Bournemouth,27,1951,183,79,4100000,56000,73,62,68,70,68,67,71,1,Right
+Harry Arter,Bournemouth,27,2030,176,70,10000000,66000,77,67,72,74,74,67,77,1,Right
+Jermain Defoe,Bournemouth,34,1880,171,65,8000000,87000,80,74,85,61,79,25,65,2,Right
+Jordon Ibe,Bournemouth,21,1803,176,81,4600000,31000,72,85,67,62,77,45,66,1,Right
+Joshua King,Bournemouth,25,1828,180,74,11500000,69000,77,90,77,60,76,29,70,1,Right
+Junior Stanislas,Bournemouth,27,1754,183,76,4200000,56000,73,80,68,71,73,32,56,1,Right
+Lewis Cook,Bournemouth,20,1881,175,71,4600000,31000,71,73,56,68,76,63,70,1,Right
+Lys Mousset,Bournemouth,21,1539,184,80,1500000,29000,69,80,72,39,67,21,60,1,Right
+Marc Pugh,Bournemouth,30,1830,180,72,3800000,56000,73,71,66,67,76,39,68,1,Right
+Nathan Ake,Bournemouth,22,1892,180,75,9500000,44000,75,76,49,67,66,75,74,1,Left
+Ryan Fraser,Bournemouth,23,1832,163,60,5500000,49000,73,88,64,68,76,42,55,1,Right
+Simon Francis,Bournemouth,32,1828,183,90,4400000,61000,76,65,43,69,67,76,76,1,Right
+Steve Cook,Bournemouth,26,1581,185,82,9000000,61000,77,56,27,52,60,77,77,1,Right
+Tyrone Mings,Bournemouth,24,1710,196,77,2800000,31000,71,74,36,61,66,69,77,1,Left
+Anthony Knockaert,Brighton & Hove Albion,25,1922,172,69,9500000,50000,76,75,72,72,81,31,67,1,Left
+Beram Kayal,Brighton & Hove Albion,29,1992,178,74,3800000,46000,73,71,61,70,73,67,81,1,Right
+Bruno Saltor Grau,Brighton & Hove Albion,36,1869,178,75,450000,29000,73,62,45,70,71,74,68,1,Right
+Connor Goldson,Brighton & Hove Albion,24,1558,191,85,2100000,25000,70,68,40,52,56,69,73,1,Right
+Dale Stephens,Brighton & Hove Albion,28,1993,185,71,5500000,46000,74,63,65,73,67,71,75,1,Right
+Davy Pröpper,Brighton & Hove Albion,25,2033,185,79,11000000,50000,77,67,72,73,75,61,75,2,Right
+Gaëtan Bong,Brighton & Hove Albion,29,1818,183,74,2400000,30000,72,70,41,68,70,71,74,1,Left
+Glenn Murray,Brighton & Hove Albion,33,1763,185,84,2500000,48000,73,49,73,59,66,35,74,1,Right
+Jamie Murphy,Brighton & Hove Albion,27,1839,178,72,1900000,31000,70,79,68,64,70,39,69,1,Right
+Jiri Skalak,Brighton & Hove Albion,25,1766,177,76,1100000,25000,68,68,64,65,71,29,65,1,Right
+Lewis Dunk,Brighton & Hove Albion,25,1585,192,88,7500000,38000,75,50,37,51,60,74,79,1,Right
+Liam Rosenior,Brighton & Hove Albion,32,1813,178,77,1300000,29000,71,69,52,59,69,71,67,1,Right
+Markus Suttner,Brighton & Hove Albion,30,1985,179,73,2900000,40000,73,74,58,72,72,69,71,1,Left
+Mathew Ryan,Brighton & Hove Albion,25,1341,184,82,8000000,36000,77,76,74,90,78,52,74,1,Right
+Niki Maenpaa,Brighton & Hove Albion,32,1008,190,86,525000,19000,68,70,68,56,66,35,64,1,Right
+Pascal Groß,Brighton & Hove Albion,26,2054,181,76,9500000,52000,76,66,70,79,74,62,76,2,Right
+Sam Baldock,Brighton & Hove Albion,28,1765,170,67,1800000,36000,70,80,69,50,72,33,64,1,Right
+Shane Duffy,Brighton & Hove Albion,25,1626,193,76,6500000,38000,74,51,42,51,46,72,79,1,Right
+Solly March,Brighton & Hove Albion,22,1789,180,88,4800000,27000,72,83,67,66,77,38,61,1,Left
+Steve Sidwell,Brighton & Hove Albion,34,1929,178,80,1200000,31000,71,46,69,70,68,70,69,1,Right
+Tim Krul,Brighton & Hove Albion,29,1242,188,74,7000000,41000,77,77,77,69,77,42,75,2,Left
+Tomer Hemed,Brighton & Hove Albion,30,1718,186,80,3000000,34000,72,56,73,52,66,32,73,1,Right
+Uwe Hünemeier,Brighton & Hove Albion,31,1720,189,84,1600000,29000,71,57,46,59,56,71,68,1,Right
+Adam Legzdins,Burnley,30,1077,191,78,350000,10000,65,65,61,65,66,32,64,1,Right
+Anders Lindegaard,Burnley,33,1205,193,79,450000,21000,68,68,70,69,67,50,65,2,Right
+Ashley Barnes,Burnley,27,1891,186,76,6000000,53000,74,67,73,63,73,42,81,1,Right
+Ashley Westwood,Burnley,27,1895,170,67,4500000,48000,73,65,53,76,71,63,66,1,Right
+Ben Mee,Burnley,27,1782,180,74,10000000,53000,78,66,37,58,65,77,82,1,Left
+Chris Wood,Burnley,25,1847,191,95,8500000,51000,75,71,76,57,67,37,80,1,Right
+Dean Marney,Burnley,33,1995,183,72,1800000,35000,72,67,67,71,69,69,79,1,Right
+Fredrik Ulvestad,Burnley,25,1807,183,79,800000,13000,66,67,63,64,69,51,67,1,Right
+Jack Cork,Burnley,28,2032,185,69,10500000,60000,78,59,62,75,74,76,79,2,Right
+James Tarkowski,Burnley,24,1812,191,81,8500000,45000,76,64,43,61,64,75,79,1,Right
+Jeff Hendrick,Burnley,25,2067,185,79,8500000,46000,75,72,68,74,75,70,78,1,Right
+Johann Berg Gudmundsson,Burnley,26,1966,178,77,4700000,48000,73,78,72,69,76,49,72,1,Left
+Jonathan Walters,Burnley,33,1992,183,79,4200000,53000,75,63,73,70,72,59,82,2,Right
+Kevin Long,Burnley,26,1572,187,82,1800000,32000,70,63,35,43,52,70,76,1,Right
+Matthew Lowton,Burnley,28,2001,180,78,6000000,55000,76,75,60,69,73,74,77,1,Right
+Nahki Wells,Burnley,27,1883,170,69,3600000,38000,72,83,71,61,73,43,68,1,Right
+Phil Bardsley,Burnley,32,1862,180,74,1700000,32000,72,62,59,60,64,73,76,1,Right
+Robbie Brady,Burnley,25,2085,175,69,9500000,55000,76,81,71,75,76,65,69,1,Left
+Sam Vokes,Burnley,27,1886,188,90,9000000,63000,76,58,77,64,71,43,83,1,Right
+Scott Arfield,Burnley,28,1976,178,70,4000000,51000,73,69,68,72,74,63,68,1,Right
+Stephen Ward,Burnley,31,1984,184,82,4400000,44000,75,68,59,69,70,74,78,2,Left
+Steven Defour,Burnley,29,2129,175,72,10000000,60000,78,69,71,78,77,74,74,2,Right
+Tom Heaton,Burnley,31,1271,188,86,11000000,51000,81,80,79,76,83,54,80,2,Right
+Alvaro Morata,Chelsea,24,1880,189,85,51000000,170000,85,83,81,71,80,24,74,3,Right
+Andreas Christensen,Chelsea,21,1729,188,78,24000000,86000,81,72,31,62,69,84,72,2,Right
+Antonio Rüdiger,Chelsea,24,1838,190,85,24500000,105000,82,74,40,64,63,82,79,2,Right
+César Azpilicueta Tanco,Chelsea,27,2099,178,78,37500000,160000,85,79,55,75,74,86,78,3,Right
+Cesc Fabregas,Chelsea,30,2118,180,77,41000000,210000,86,63,77,88,80,61,64,4,Right
+Danny Drinkwater,Chelsea,27,2069,177,70,14000000,125000,79,68,67,76,77,74,77,2,Right
+David Luiz Moreira Marinho,Chelsea,30,2123,189,84,33000000,190000,86,70,64,74,71,84,81,4,Right
+Davide Zappacosta,Chelsea,25,2079,182,70,13500000,110000,79,82,66,70,75,75,76,2,Right
+Diego da Silva Costa,Chelsea,28,1984,186,87,46000000,235000,86,75,83,65,76,40,88,4,Right
+Eden Hazard,Chelsea,26,2096,173,76,90500000,295000,90,90,82,84,92,32,66,4,Right
+Eduardo dos Reis Carvalho,Chelsea,34,1245,187,88,2700000,64000,75,75,74,71,75,45,78,2,Right
+Gary Cahill,Chelsea,31,1839,193,86,21000000,160000,84,63,58,52,61,84,78,3,Right
+Kenedy,Chelsea,21,1858,182,77,4800000,48000,72,80,66,64,76,49,64,1,Left
+Marcos Alonso Mendoza,Chelsea,26,2134,188,84,17500000,115000,81,77,69,77,77,77,80,2,Left
+Michy Batshuayi,Chelsea,23,1852,185,86,20000000,120000,80,79,80,59,77,27,74,2,Right
+N'Golo Kanté,Chelsea,26,2154,168,68,52500000,190000,87,81,66,75,79,81,84,3,Right
+Pedro Rodríguez Ledesma,Chelsea,29,1987,169,65,30500000,200000,84,82,77,77,85,37,62,3,Right
+Thibaut Courtois,Chelsea,25,1282,199,94,59000000,190000,89,85,91,69,88,49,86,4,Left
+Tiémoué Bakayoko,Chelsea,22,1978,189,85,26000000,105000,82,73,49,70,77,81,83,2,Right
+Victor Moses,Chelsea,26,2103,177,79,12500000,115000,79,83,71,72,82,70,74,2,Right
+Willian Borges da Silva,Chelsea,28,2061,175,77,31500000,200000,84,88,76,81,86,49,64,3,Right
+Willy Caballero,Chelsea,35,1241,186,80,3000000,59000,79,80,76,73,81,46,78,2,Right
+Andros Townsend,Crystal Palace,25,1906,181,73,12500000,55000,78,85,75,73,80,33,63,2,Left
+Bakary Sako,Crystal Palace,29,1900,183,90,3000000,36000,72,74,71,69,74,39,76,1,Left
+Christian Benteke,Crystal Palace,26,1868,190,83,18000000,75000,80,73,78,65,73,33,80,3,Right
+Chung-Yong Lee,Crystal Palace,28,1858,180,68,2400000,36000,71,72,63,71,72,50,61,2,Right
+Connor Wickham,Crystal Palace,24,1732,191,90,4100000,33000,72,66,72,61,66,27,76,1,Right
+Damien Delaney,Crystal Palace,35,1533,191,89,950000,32000,73,31,41,49,39,73,79,1,Left
+James McArthur,Crystal Palace,29,1933,178,66,6500000,51000,75,62,60,72,71,72,76,1,Right
+James Tomkins,Crystal Palace,28,1611,192,74,6000000,46000,75,51,33,53,54,77,75,2,Right
+Jason Puncheon,Crystal Palace,31,2017,173,66,4800000,48000,74,66,68,75,75,61,70,1,Left
+Jeffrey Schlupp,Crystal Palace,24,1957,178,72,3400000,27000,72,87,61,62,74,67,77,1,Left
+Joel Ward,Crystal Palace,27,1838,188,83,5000000,44000,74,65,54,65,65,76,75,1,Right
+Julián Speroni,Crystal Palace,38,1079,186,80,160000,17000,71,74,70,67,73,43,67,1,Right
+Luka Milivojevic,Crystal Palace,26,1973,186,80,8500000,53000,76,62,62,70,66,74,81,1,Right
+Mamadou Sakho,Crystal Palace,27,1728,187,83,17000000,63000,81,61,33,62,56,80,85,3,Left
+Martin Kelly,Crystal Palace,27,1753,191,77,3700000,44000,73,58,44,61,62,74,76,2,Right
+Pape Souaré,Crystal Palace,27,1984,178,66,3700000,44000,73,74,51,70,72,71,74,1,Left
+Patrick van Aanholt,Crystal Palace,26,1989,176,67,6500000,44000,75,86,63,67,74,70,72,1,Left
+Ruben Loftus-Cheek,Crystal Palace,21,1749,191,83,3900000,27000,70,67,55,63,71,64,75,1,Right
+Scott Dann,Crystal Palace,30,1600,188,78,6500000,53000,77,45,40,52,49,78,77,2,Right
+Timothy Fosu-Mensah,Crystal Palace,19,1947,190,78,12000000,52000,76,84,62,66,66,74,77,1,Right
+Wayne Hennessey,Crystal Palace,30,1093,198,90,3600000,36000,74,73,75,80,71,41,76,2,Right
+Wilfried Zaha,Crystal Palace,24,1897,180,66,22500000,60000,81,90,71,71,86,33,72,2,Right
+Yohan Cabaye,Crystal Palace,31,2122,174,70,11000000,69000,79,63,73,78,75,73,71,2,Right
+Aaron Lennon,Everton,30,1865,165,63,8500000,97000,77,83,64,71,82,38,62,2,Right
+Ademola Lookman,Everton,19,1611,174,78,975000,13000,64,84,68,48,73,17,60,1,Right
+Ashley Williams,Everton,32,1757,183,77,12500000,115000,82,65,43,56,61,81,81,3,Right
+Cuco Martina,Everton,27,1862,185,77,2000000,53000,71,71,52,63,63,69,75,1,Right
+Davy Klaassen,Everton,24,2108,179,70,27500000,110000,82,73,80,74,74,67,79,2,Right
+Dominic Calvert-Lewin,Everton,20,1639,187,71,1700000,42000,67,82,64,51,68,31,64,1,Right
+Gylfi Sigurdsson,Everton,27,2096,186,77,23000000,130000,82,66,81,84,79,52,70,3,Right
+Idrissa Gueye,Everton,27,2045,174,66,24500000,115000,83,76,60,70,77,83,81,2,Right
+James McCarthy,Everton,26,2047,180,72,14500000,110000,80,70,60,75,74,77,81,2,Right
+Joel Robles Blázquez,Everton,27,1154,195,90,4600000,60000,74,78,69,75,77,51,72,1,Right
+Jonjoe Kenny,Everton,20,1568,176,67,500000,11000,61,71,33,53,53,60,61,1,Right
+Jordan Pickford,Everton,23,1304,185,77,10000000,59000,77,77,76,85,82,44,73,1,Left
+Kevin Mirallas,Everton,29,2059,182,72,17500000,125000,81,83,77,77,83,46,65,2,Right
+Leighton Baines,Everton,32,2211,170,74,12500000,115000,82,70,71,80,79,80,71,3,Left
+Maarten Stekelenburg,Everton,34,1166,197,92,2700000,60000,75,76,73,79,75,41,72,2,Right
+Mason Holgate,Everton,20,1672,184,63,1500000,34000,67,76,42,54,65,66,71,1,Right
+Michael Keane,Everton,24,1888,191,82,21000000,91000,81,72,49,64,68,82,82,2,Right
+Morgan Schneiderlin,Everton,27,2078,185,75,24500000,115000,83,68,62,76,77,79,81,2,Right
+Muhamed Besic,Everton,24,1899,180,80,9000000,76000,76,68,50,64,74,76,76,2,Right
+Phil Jagielka,Everton,34,1914,180,87,4500000,110000,80,50,46,58,55,82,78,2,Right
+Ramiro Funes Mori,Everton,26,1847,186,78,9500000,88000,77,68,49,61,65,76,78,2,Left
+Ross Barkley,Everton,23,2021,189,76,23000000,105000,81,77,73,77,82,55,77,2,Right
+Sandro Ramírez Castillo,Everton,21,1888,175,71,13500000,84000,77,75,80,64,78,27,66,2,Right
+Séamus Coleman,Everton,28,2064,177,67,14000000,115000,81,73,66,72,78,80,77,2,Right
+Tom Davies,Everton,19,1861,180,70,7000000,46000,73,73,61,71,74,58,73,1,Right
+Wayne Rooney,Everton,31,2127,176,83,15500000,120000,81,68,81,81,76,52,81,4,Right
+Yannick Bolasie,Everton,28,1871,188,84,10500000,105000,78,87,68,68,84,31,78,2,Right
+Aaron Mooy,Huddersfield Town,26,2051,174,78,10500000,52000,77,69,70,77,75,66,76,1,Right
+Chris Löwe,Huddersfield Town,28,1995,175,68,3200000,42000,73,79,60,68,70,70,69,1,Left
+Christopher Schindler,Huddersfield Town,27,1642,189,77,4000000,40000,73,65,32,57,51,74,73,1,Right
+Collin Quaner,Huddersfield Town,26,1594,191,79,1100000,28000,68,75,65,53,64,27,73,1,Left
+Dean Whitehead,Huddersfield Town,35,1786,183,77,150000,8000,66,37,59,63,60,65,67,1,Right
+Elias Kachunga,Huddersfield Town,25,1860,178,74,3900000,30000,72,84,71,63,72,37,74,1,Right
+Florent Hadergjonaj,Huddersfield Town,22,1813,182,73,3700000,13000,72,76,48,65,69,68,67,1,Right
+Joe Lolley,Huddersfield Town,24,1680,178,72,675000,11000,65,75,59,60,68,37,58,1,Left
+Joel Coleman,Huddersfield Town,21,1035,198,82,290000,3000,60,61,60,55,61,45,57,1,Right
+Jon Gorenc Stankovic,Huddersfield Town,21,1487,190,78,600000,6000,62,53,40,50,53,61,65,1,Right
+Jonas Lössl,Huddersfield Town,28,1070,195,88,5500000,21000,75,74,77,67,77,32,71,1,Right
+Jonathan Hogg,Huddersfield Town,28,1872,176,73,4600000,42000,74,70,55,65,68,71,79,1,Right
+Kasey Palmer,Huddersfield Town,20,1823,175,68,3800000,48000,71,76,66,67,74,47,61,1,Right
+Laurent Depoitre,Huddersfield Town,28,1717,191,91,6000000,50000,74,58,72,59,63,37,84,1,Right
+Martin Cranie,Huddersfield Town,30,1677,183,78,650000,24000,68,68,42,59,62,67,71,1,Right
+Mathias Jorgensen,Huddersfield Town,27,1726,191,85,6500000,40000,75,69,39,61,56,73,82,1,Right
+Michael Hefele,Huddersfield Town,26,1603,192,91,1800000,29000,70,52,44,54,48,68,78,1,Right
+Philip Billing,Huddersfield Town,21,1795,197,80,1500000,18000,67,62,64,62,64,64,68,1,Left
+Rajiv van La Parra,Huddersfield Town,26,1730,181,72,1200000,26000,69,84,56,59,77,37,63,1,Right
+Scott Malone,Huddersfield Town,26,1892,189,75,2300000,29000,71,76,62,63,69,67,73,1,Left
+Steve Mounié,Huddersfield Town,22,1866,190,80,11000000,50000,76,74,74,61,66,44,81,1,Right
+Tom Ince,Huddersfield Town,25,1761,178,66,7000000,46000,74,79,69,68,77,26,53,1,Left
+Tommy Smith,Huddersfield Town,25,1761,186,84,3300000,27000,72,74,34,67,65,70,73,1,Right
+Ahmed Musa,Leicester City,24,1854,171,66,9000000,55000,75,93,75,62,78,28,57,2,Right
+Aleksandar Dragovic,Leicester City,26,1881,184,76,9000000,47000,77,72,51,61,65,78,76,2,Right
+Andy King,Leicester City,28,1944,184,79,3100000,43000,72,64,71,68,70,68,71,1,Right
+Ben Chilwell,Leicester City,20,1805,178,77,2800000,28000,70,76,43,64,71,66,69,1,Left
+Ben Hamer,Leicester City,29,1132,192,91,700000,27000,68,71,63,63,68,45,69,1,Right
+Christian Fuchs,Leicester City,31,2129,187,89,5000000,62000,76,62,69,77,71,76,77,2,Left
+Daniel Amartey,Leicester City,22,1961,186,79,8000000,45000,75,73,60,63,70,72,86,1,Right
+Danny Simpson,Leicester City,30,1849,176,80,4800000,52000,75,69,38,61,67,77,76,2,Right
+Demarai Gray,Leicester City,21,1711,180,74,6500000,45000,73,90,66,64,80,23,55,1,Right
+Eldin Jakupovic,Leicester City,32,1168,191,85,1800000,30000,72,73,70,69,77,47,71,1,Right
+Harry Maguire,Leicester City,24,1667,194,100,10500000,53000,77,46,37,56,61,77,82,1,Right
+Islam Slimani,Leicester City,29,1985,188,83,18000000,92000,81,69,77,67,72,47,85,3,Right
+Jamie Vardy,Leicester City,30,2047,179,74,17000000,89000,81,91,79,63,77,51,78,3,Right
+Kasper Schmeichel,Leicester City,30,1355,189,89,19000000,65000,83,83,82,82,86,61,80,2,Right
+Kelechi Iheanacho,Leicester City,20,1762,185,82,11500000,50000,75,84,75,60,74,22,68,1,Left
+Leonardo Ulloa,Leicester City,30,1807,188,89,5500000,62000,74,49,72,62,69,42,79,1,Right
+Marc Albrighton,Leicester City,27,1988,175,74,9500000,68000,77,79,69,74,77,47,70,2,Right
+Wilfred Ndidi,Leicester City,20,1988,183,74,12000000,47000,77,74,60,65,67,78,80,1,Right
+Riyad Mahrez,Leicester City,26,1935,179,67,30500000,88000,83,82,74,78,88,28,55,3,Left
+Shinji Okazaki,Leicester City,31,1977,173,78,8000000,74000,77,74,74,69,78,47,75,2,Right
+Vicente Iborra,Leicester City,29,2062,190,91,17000000,85000,82,50,73,73,68,83,83,2,Right
+Wes Morgan,Leicester City,33,1476,186,101,3600000,62000,77,37,30,41,57,77,82,2,Right
+Yohan Benalouane,Leicester City,30,1764,185,86,4900000,52000,75,64,39,57,54,75,79,1,Right
+Adam Lallana,Liverpool,29,2141,172,73,25000000,135000,83,73,75,80,84,65,74,3,Right
+Alberto Moreno Pérez,Liverpool,24,2028,171,65,8000000,76000,76,88,65,68,78,68,74,2,Left
+Alex Oxlade-Chamberlain,Liverpool,23,2004,175,70,20000000,105000,80,88,70,74,84,52,71,2,Right
+Ben Woodburn,Liverpool,17,1574,174,72,1100000,15000,65,77,62,57,68,21,53,1,Right
+Daniel Sturridge,Liverpool,27,1882,180,76,23500000,140000,82,76,82,69,79,25,68,3,Left
+Danny Ings,Liverpool,24,1872,178,73,10000000,92000,76,82,74,64,77,35,71,1,Right
+Dejan Lovren,Liverpool,27,1739,188,84,17500000,110000,81,56,40,59,63,81,82,2,Right
+Dominic Solanke,Liverpool,19,1690,187,80,3800000,38000,70,75,67,62,73,25,63,1,Right
+Emre Can,Liverpool,23,2135,184,82,19500000,105000,80,71,67,77,77,78,84,2,Right
+Georginio Wijnaldum,Liverpool,26,2167,175,69,27000000,130000,82,81,75,76,84,66,74,3,Right
+James Milner,Liverpool,31,2155,175,70,9500000,110000,80,67,74,82,77,76,78,2,Right
+Joe Gomez,Liverpool,20,1623,188,77,3100000,40000,70,77,30,53,65,69,72,1,Right
+Joel Matip,Liverpool,25,1884,195,90,26500000,110000,83,67,46,68,66,84,78,2,Right
+Jordan Henderson,Liverpool,27,2183,182,67,21500000,115000,82,72,70,83,76,76,81,2,Right
+Loris Karius,Liverpool,24,1203,189,87,14000000,71000,80,84,74,74,85,50,76,2,Right
+Marko Grujic,Liverpool,21,1927,191,82,5000000,45000,71,67,68,67,67,69,77,1,Right
+Mohamed Salah,Liverpool,25,2032,175,71,32500000,135000,83,93,73,74,87,45,66,3,Left
+Nathaniel Clyne,Liverpool,26,2057,175,67,22000000,115000,82,83,61,71,77,80,76,2,Right
+Philippe Coutinho,Liverpool,25,2049,171,71,56000000,205000,86,82,78,83,88,35,64,3,Right
+Roberto Firmino,Liverpool,25,2101,181,76,33000000,135000,83,77,81,79,85,46,77,3,Right
+Sadio Mané,Liverpool,25,2046,175,69,39000000,175000,84,93,78,75,85,36,75,3,Right
+Simon Mignolet,Liverpool,29,1268,193,87,12000000,91000,81,80,76,65,84,56,78,3,Right
+Trent Alexander-Arnold,Liverpool,18,1904,175,69,1900000,23000,69,81,58,70,67,64,66,1,Right
+Benjamin Mendy,Manchester City,22,1935,185,85,13000000,86000,78,82,48,70,75,74,79,2,Left
+Bernardo Silva,Manchester City,22,2012,173,64,43500000,165000,84,81,72,81,90,45,61,2,Left
+Claudio Bravo,Manchester City,34,1464,184,80,9000000,110000,82,80,80,87,81,56,77,3,Right
+Danilo Luiz da Silva,Manchester City,25,2123,184,78,10500000,95000,78,78,70,71,74,76,79,2,Right
+David Silva,Manchester City,31,1977,173,67,44000000,220000,87,68,72,87,87,38,61,4,Left
+Ederson Santana de Moraes,Manchester City,23,1320,188,86,26000000,87000,83,81,76,82,87,63,78,2,Left
+Eliaquim Mangala,Manchester City,26,1800,187,84,11000000,100000,78,70,42,55,51,78,85,2,Left
+Fabian Delph,Manchester City,27,2073,174,60,10000000,110000,77,74,69,73,82,68,75,2,Left
+Fernando Luiz Rosa,Manchester City,32,2150,179,67,12500000,130000,82,73,73,76,78,77,78,3,Right
+Gabriel Fernando de Jesus,Manchester City,20,1967,175,73,31000000,115000,81,87,79,71,87,26,67,2,Right
+Ilkay Gundogan,Manchester City,26,2148,180,80,46000000,190000,85,71,74,83,87,64,71,3,Right
+John Stones,Manchester City,23,1807,188,75,14500000,105000,79,71,35,67,71,80,77,2,Right
+Kevin De Bruyne,Manchester City,26,2162,181,68,83000000,285000,89,75,84,88,85,45,75,4,Right
+Kyle Walker,Manchester City,27,2164,183,83,24000000,130000,83,90,63,73,76,80,81,3,Right
+Leroy Sané,Manchester City,21,2001,183,75,34500000,125000,82,94,77,72,86,35,70,2,Left
+Nicolás Otamendi,Manchester City,29,1886,183,81,20000000,140000,83,63,56,59,54,83,81,3,Right
+Oleksandr Zinchenko,Manchester City,20,1939,175,64,5000000,51000,72,72,61,75,75,58,58,1,Left
+Raheem Sterling,Manchester City,22,1960,170,69,29500000,140000,82,93,71,74,85,46,61,3,Right
+Sergio Agüero,Manchester City,29,2074,173,70,66500000,325000,89,87,88,75,89,23,72,4,Right
+Shay Facey,Manchester City,22,1523,179,64,550000,21000,64,70,28,50,59,63,64,1,Right
+Vincent Kompany,Manchester City,31,1913,193,85,26000000,170000,85,63,54,65,64,84,83,4,Right
+Yaya Touré,Manchester City,34,2161,189,90,12500000,145000,83,63,82,80,76,70,83,4,Right
+Ander Herrera Agüera,Manchester United,27,2213,182,70,32000000,190000,84,73,72,81,83,78,77,3,Right
+Anthony Martial,Manchester United,21,2052,181,76,33000000,115000,82,90,79,71,86,41,74,3,Right
+Antonio Valencia,Manchester United,31,2185,180,83,17000000,130000,83,87,66,75,81,78,85,2,Right
+Ashley Young,Manchester United,31,2061,175,65,4400000,84000,75,77,69,77,79,65,61,2,Right
+Axel Tuanzebe,Manchester United,19,1713,185,75,6000000,44000,73,75,34,57,64,73,72,1,Right
+Chris Smalling,Manchester United,27,1826,194,81,17000000,120000,81,72,46,56,59,81,83,3,Right
+Daley Blind,Manchester United,27,2078,180,72,13500000,120000,80,60,56,79,76,80,76,3,Left
+David de Gea,Manchester United,26,1458,193,76,64500000,215000,90,90,85,87,90,58,86,4,Right
+Eric Bailly,Manchester United,23,1890,187,77,35500000,150000,84,78,42,59,65,84,84,2,Right
+Henrikh Mkhitaryan,Manchester United,28,2148,177,75,39000000,195000,85,86,79,80,87,54,70,3,Right
+Jesse Lingard,Manchester United,24,2005,175,62,13000000,95000,78,83,74,72,81,51,67,2,Right
+Joel Castro Pereira,Manchester United,21,1048,188,70,3700000,34000,71,69,74,63,72,43,68,1,Right
+Juan Manuel Mata García,Manchester United,29,1984,170,63,30500000,195000,84,67,76,84,84,32,55,3,Left
+Luke Shaw,Manchester United,21,2011,185,75,14000000,91000,79,82,51,71,77,76,76,2,Left
+Marcos Rojo,Manchester United,27,2045,187,80,21000000,130000,82,71,59,69,68,81,83,3,Left
+Marcus Rashford,Manchester United,19,2040,185,70,26500000,74000,81,92,77,73,83,38,74,2,Right
+Marouane Fellaini,Manchester United,29,2038,194,85,12000000,140000,79,52,72,70,73,76,89,3,Right
+Matteo Darmian,Manchester United,27,2005,182,70,13500000,120000,80,77,58,69,75,80,73,2,Right
+Michael Carrick,Manchester United,35,1992,188,74,3500000,86000,80,44,65,81,72,75,66,3,Right
+Nemanja Matic,Manchester United,28,2123,194,85,25000000,180000,84,64,70,77,72,80,87,3,Left
+Paul Pogba,Manchester United,24,2238,191,84,66500000,195000,87,74,79,84,85,68,88,4,Right
+Phil Jones,Manchester United,25,1884,185,71,14500000,115000,80,61,56,65,62,80,80,2,Right
+Romelu Lukaku,Manchester United,24,1998,190,94,59000000,210000,86,83,85,70,74,34,84,3,Left
+Sergio Romero,Manchester United,30,1251,192,87,9500000,97000,80,78,76,81,82,45,78,3,Right
+Victor Lindelöf,Manchester United,22,1869,187,80,15000000,105000,79,70,48,62,61,79,79,2,Right
+Zlatan Ibrahimovic,Manchester United,35,2075,195,95,27000000,240000,88,65,88,81,82,32,82,5,Right
+Aleksandar Mitrovic,Newcastle United,22,1697,187,90,9000000,55000,75,59,75,52,67,24,81,1,Right
+Ayoze Pérez Gutiérrez,Newcastle United,23,1829,178,72,8000000,50000,74,75,72,62,80,25,64,1,Right
+Chancel Mbemba,Newcastle United,22,1799,182,82,9000000,54000,76,74,54,53,66,75,80,1,Right
+Christian Atsu,Newcastle United,25,1882,165,65,9500000,66000,76,92,67,70,79,35,55,1,Left
+Ciaran Clark,Newcastle United,27,1806,185,88,7500000,63000,76,62,52,55,57,77,76,2,Left
+DeAndre Yedlin,Newcastle United,23,1932,172,75,4700000,45000,73,93,51,64,74,67,76,1,Right
+Dwight Gayle,Newcastle United,26,1768,174,78,8500000,63000,75,83,76,55,72,25,60,1,Right
+Florian Lejeune,Newcastle United,26,1821,189,89,13500000,75000,79,49,57,59,60,78,85,2,Right
+Henri Saivet,Newcastle United,26,2099,175,73,11000000,68000,77,74,71,77,79,65,70,2,Right
+Isaac Hayden,Newcastle United,22,1753,185,79,3000000,32000,71,62,49,61,66,69,76,1,Right
+Jack Colback,Newcastle United,27,1895,177,77,3900000,53000,73,63,59,68,69,69,70,1,Left
+Jamaal Lascelles,Newcastle United,23,1557,188,89,7000000,45000,74,62,27,49,54,75,76,1,Right
+Javier Manquillo Gaitán,Newcastle United,23,1891,178,76,9000000,54000,76,76,45,65,71,73,72,1,Right
+Jesús Gámez Duarte,Newcastle United,32,1898,177,75,4300000,63000,76,66,51,63,66,78,81,2,Right
+Jonjo Shelvey,Newcastle United,25,2030,184,80,11500000,66000,77,62,73,79,73,60,77,2,Right
+Karl Darlow,Newcastle United,26,1174,190,88,1600000,30000,70,70,69,64,73,55,66,1,Right
+Massadio Haïdara,Newcastle United,24,1847,181,76,2000000,32000,70,73,51,62,69,69,74,1,Left
+Matt Ritchie,Newcastle United,27,1994,172,76,7000000,58000,75,75,75,72,76,51,68,1,Left
+Mohamed Diamé,Newcastle United,30,2035,184,86,3800000,58000,73,73,70,67,78,73,77,2,Right
+Paul Dummett,Newcastle United,25,1784,182,77,2400000,36000,71,65,40,62,67,72,71,1,Left
+Rob Elliot,Newcastle United,31,1128,190,94,1400000,30000,71,70,69,69,71,48,70,1,Left
+Rolando Aarons,Newcastle United,21,1686,178,76,4400000,32000,72,84,62,65,77,32,49,1,Left
+Alex McCarthy,Southampton,27,1216,193,79,5500000,49000,75,76,73,61,78,57,74,1,Right
+Cédric Ricardo Alves Soares,Southampton,25,2118,172,67,13000000,82000,79,82,67,72,76,76,72,2,Right
+Charlie Austin,Southampton,27,1831,188,84,11000000,85000,78,65,79,56,68,40,76,1,Right
+Dušan Tadic,Southampton,28,1954,181,76,15000000,98000,80,70,67,80,83,37,63,2,Left
+Fraser Forster,Southampton,29,1178,201,93,7000000,61000,77,74,78,69,80,34,76,2,Right
+Jack Stephens,Southampton,23,1684,185,75,3000000,37000,71,61,41,55,62,72,69,1,Right
+James Ward-Prowse,Southampton,22,2056,173,66,15000000,68000,78,66,66,84,75,61,67,2,Right
+Jan Bednarek,Southampton,21,1458,189,77,1400000,27000,68,66,22,48,46,66,74,1,Right
+Jérémy Pied,Southampton,28,2071,173,69,3200000,63000,73,71,68,74,75,72,73,1,Right
+Josh Sims,Southampton,20,1629,168,65,1700000,31000,67,83,59,60,72,29,53,1,Left
+Manolo Gabbiadini,Southampton,25,1893,186,81,16500000,98000,79,74,81,71,78,25,70,2,Left
+Mario Lemina,Southampton,23,2073,184,85,12000000,68000,77,78,66,77,79,67,75,2,Right
+Matt Targett,Southampton,21,1725,183,70,1600000,27000,69,75,37,60,64,66,68,1,Left
+Maya Yoshida,Southampton,28,1727,189,78,5500000,63000,75,62,41,51,61,76,75,1,Right
+Nathan Redmond,Southampton,23,1783,173,69,13000000,68000,77,87,69,70,82,24,52,2,Right
+Oriol Romeu,Southampton,25,1837,183,83,13000000,82000,79,57,39,65,64,78,85,2,Right
+Pierre-Emile Hojbjerg,Southampton,21,1976,185,84,9000000,52000,75,64,61,73,75,69,77,2,Right
+Ryan Bertrand,Southampton,27,2027,179,85,12000000,86000,80,79,53,71,77,79,75,2,Left
+Sam McQueen,Southampton,22,1761,180,70,950000,31000,67,75,48,61,70,63,68,1,Left
+Shane Long,Southampton,30,1897,178,70,7500000,85000,76,83,72,60,74,37,80,2,Right
+Sofiane Boufal,Southampton,23,1842,170,60,17000000,90000,79,82,71,73,86,36,43,2,Right
+Steven Davis,Southampton,32,2024,173,70,6500000,79000,77,64,61,77,77,67,74,2,Right
+Virgil van Dijk,Southampton,25,2011,193,92,27500000,89000,83,73,60,67,69,83,85,3,Right
+Bruno Martins Indi,Stoke City,25,1719,185,76,13500000,71000,79,57,42,59,57,79,81,2,Left
+Charlie Adam,Stoke City,31,1967,185,83,4800000,57000,74,43,75,79,67,58,72,2,Left
+Darren Fletcher,Stoke City,33,1990,183,83,4500000,68000,76,49,66,74,68,80,74,2,Right
+Eric Maxim Choupo-Moting,Stoke City,28,1888,191,91,9000000,71000,77,77,73,68,83,36,72,2,Right
+Erik Pieters,Stoke City,28,1872,183,84,5500000,55000,75,66,40,65,67,78,78,2,Left
+Geoff Cameron,Stoke City,31,1937,191,84,5000000,62000,76,63,56,67,68,78,77,2,Right
+Glen Johnson,Stoke City,32,2006,182,78,3700000,52000,75,71,63,72,76,73,72,2,Right
+Jack Butland,Stoke City,24,1225,196,95,18000000,50000,81,81,83,72,85,41,78,2,Right
+Jakob Haugaard,Stoke City,25,1016,199,87,450000,11000,64,64,65,57,64,46,61,1,Left
+Jesé Rodríguez Ruíz,Stoke City,24,1807,178,72,11500000,64000,77,83,71,73,81,24,56,2,Right
+Joe Allen,Stoke City,27,1963,168,62,10000000,68000,77,62,63,73,77,70,70,2,Right
+Josh Tymon,Stoke City,18,1515,178,74,375000,4000,60,67,36,49,62,58,58,1,Left
+Kevin Wimmer,Stoke City,24,1669,187,85,12000000,53000,78,57,27,61,64,79,75,2,Left
+Kurt Zouma,Stoke City,22,1861,190,96,15000000,96000,79,67,50,58,55,79,83,2,Right
+Lee Grant,Stoke City,34,1187,193,83,1600000,42000,73,74,70,69,75,43,72,1,Right
+Mame Biram Diouf,Stoke City,29,1959,185,79,9000000,77000,77,83,75,61,68,65,81,2,Right
+Peter Crouch,Stoke City,36,1683,201,75,2000000,47000,74,33,75,68,66,32,69,2,Right
+Ramadan Sobhi,Stoke City,20,1840,183,75,9500000,45000,74,75,62,71,77,43,65,1,Right
+Ryan Shawcross,Stoke City,29,1671,191,76,10000000,78000,79,49,44,52,50,80,84,2,Right
+Saido Berahino,Stoke City,23,1777,180,82,10500000,65000,76,79,77,57,76,27,61,2,Right
+Stephen Ireland,Stoke City,30,1819,173,67,2900000,41000,72,54,65,70,72,45,59,1,Right
+Xherdan Shaqiri,Stoke City,25,2073,169,72,26500000,85000,82,83,77,78,85,46,65,3,Left
+Alfie Mawson,Swansea City,23,1538,188,87,6000000,45000,73,53,43,42,53,73,75,1,Right
+Àngel Rangel Zaragoza,Swansea City,34,1934,178,82,1600000,52000,74,50,59,71,72,79,72,2,Right
+Federico Fernandez,Swansea City,28,1599,189,83,10000000,78000,79,48,28,51,50,81,76,2,Right
+Jay Fulton,Swansea City,23,1802,182,78,2700000,32000,70,65,54,63,66,70,73,1,Right
+Jordan Ayew,Swansea City,25,1951,182,81,9500000,71000,76,76,74,70,79,37,74,2,Right
+Kristoffer Nordfeldt,Swansea City,28,1189,190,85,3300000,45000,73,73,66,66,78,53,74,2,Right
+Kyle Naughton,Swansea City,28,1854,180,73,5500000,55000,75,74,52,65,67,74,70,2,Right
+Leon Britton,Swansea City,34,1893,167,65,2700000,62000,77,46,53,77,78,69,63,2,Right
+Leroy Fer,Swansea City,27,2078,188,90,10000000,68000,77,71,75,72,75,70,81,2,Right
+Luciano Narsingh,Swansea City,26,1709,177,77,7000000,62000,75,91,65,67,76,24,58,2,Right
+Lukasz Fabianski,Swansea City,32,1206,190,83,8500000,60000,80,77,84,70,84,48,78,2,Right
+Martin Olsson,Swansea City,29,1989,178,81,5000000,55000,75,82,62,67,71,73,76,2,Left
+Mike van der Hoorn,Swansea City,24,1534,190,83,4400000,45000,73,38,45,47,47,75,74,1,Right
+Nathan Dyer,Swansea City,29,1876,167,62,6500000,60000,75,83,72,67,80,38,63,2,Right
+Oliver McBurnie,Swansea City,21,1457,191,77,825000,10000,63,67,64,44,55,21,61,1,Right
+Renato Júnior Luz Sanches,Swansea City,19,2110,176,70,12000000,49000,76,78,72,69,78,70,82,3,Right
+Roque Mesa Quevedo,Swansea City,28,2009,171,74,18000000,85000,82,77,61,76,77,73,80,2,Right
+Sung Yueng Ki,Swansea City,28,2036,186,79,10500000,71000,78,65,74,81,75,63,70,2,Right
+Tammy Abraham,Swansea City,19,1653,190,82,7500000,56000,73,80,70,53,67,25,70,1,Right
+Tom Carroll,Swansea City,25,1786,178,66,5000000,55000,73,66,58,74,70,52,51,1,Left
+Tyler Reid,Swansea City,19,1474,186,83,300000,4000,59,73,32,41,56,59,65,1,Right
+Wayne Routledge,Swansea City,32,1809,170,77,5000000,57000,75,72,66,70,81,36,61,2,Right
+Wilfried Bony,Swansea City,28,1880,182,88,13000000,92000,79,66,80,59,72,39,81,2,Right
+Ben Davies,Tottenham Hotspur,24,1974,182,76,13000000,79000,79,76,56,72,74,78,76,2,Left
+Christian Eriksen,Tottenham Hotspur,25,2064,182,76,65000000,165000,87,75,78,88,84,47,63,3,Right
+Danny Rose,Tottenham Hotspur,26,2117,174,76,21000000,99000,82,81,63,73,78,81,78,3,Left
+Davinson Sánchez,Tottenham Hotspur,21,1745,187,79,21500000,70000,81,71,47,50,59,81,83,2,Right
+Dele Alli,Tottenham Hotspur,21,2122,188,80,43000000,115000,84,76,81,77,82,64,78,3,Right
+Eric Dier,Tottenham Hotspur,23,2045,188,90,25000000,85000,82,72,63,71,65,81,85,2,Right
+Erik Lamela,Tottenham Hotspur,25,2047,181,80,18500000,96000,80,76,77,79,82,45,67,2,Left
+Georges-Kévin Nkoudou,Tottenham Hotspur,22,1906,175,73,12000000,73000,77,91,72,71,79,35,62,1,Right
+Harry Kane,Tottenham Hotspur,23,2062,188,86,59000000,165000,86,73,87,72,78,42,83,3,Right
+Harry Winks,Tottenham Hotspur,21,1866,176,74,9000000,55000,74,73,58,74,74,57,65,1,Right
+Heung Min Son,Tottenham Hotspur,24,1975,183,77,28000000,95000,82,86,83,75,83,25,66,3,Right
+Hugo Lloris,Tottenham Hotspur,30,1318,188,82,38000000,165000,88,88,86,68,90,64,82,4,Left
+Jan Vertonghen,Tottenham Hotspur,30,2079,189,88,28500000,130000,85,67,65,73,70,85,81,3,Left
+Kieran Trippier,Tottenham Hotspur,26,2054,178,72,10000000,76000,78,77,56,77,75,76,75,2,Right
+Kyle Walker-Peters,Tottenham Hotspur,20,1618,174,64,1100000,14000,65,79,36,55,63,63,61,1,Right
+Michel Vorm,Tottenham Hotspur,33,1292,184,84,6500000,74000,79,78,76,72,82,55,75,2,Right
+Moussa Dembélé,Tottenham Hotspur,29,2186,185,88,25000000,115000,83,76,72,77,85,75,84,3,Left
+Moussa Sissoko,Tottenham Hotspur,27,2141,187,91,11000000,84000,78,77,74,75,76,72,85,2,Right
+Paulo Gazzaniga,Tottenham Hotspur,25,1341,196,90,1700000,35000,70,67,73,84,70,64,68,1,Right
+Serge Aurier,Tottenham Hotspur,24,2136,176,76,19000000,79000,81,84,66,73,77,78,84,2,Right
+Toby Alderweireld,Tottenham Hotspur,28,2047,187,91,40500000,165000,86,66,58,72,65,87,80,3,Right
+Victor Wanyama,Tottenham Hotspur,26,2103,184,87,23000000,99000,82,64,66,70,74,82,91,2,Right
+Abdoulaye Doucouré,Watford,24,2023,182,69,12000000,45000,78,66,71,73,76,74,81,2,Right
+Adrian Mariappa,Watford,30,1706,180,78,2200000,32000,72,68,34,57,63,75,72,1,Right
+Andre Gray,Watford,26,1860,180,78,11000000,63000,77,89,76,62,72,29,78,1,Right
+Christian Kabasele,Watford,26,1782,188,84,6500000,44000,75,73,50,49,62,74,79,1,Right
+Craig Cathcart,Watford,28,1609,190,83,3200000,46000,73,56,37,54,54,74,73,1,Right
+Daryl Janmaat,Watford,27,2048,185,80,7500000,53000,77,74,63,70,74,74,81,2,Right
+Etienne Capoue,Watford,28,1973,190,87,7500000,60000,76,58,70,70,73,74,76,2,Right
+Heurelho Silva Gomes,Watford,36,1253,191,91,1700000,33000,79,81,75,60,85,51,77,2,Right
+Isaac Success,Watford,21,1785,182,90,6500000,38000,73,84,68,64,76,29,71,1,Right
+Jose Holebas,Watford,33,2112,185,81,4000000,53000,78,80,67,70,74,76,82,2,Left
+Marvin Zeegelaar,Watford,26,1984,186,82,5500000,44000,75,78,65,67,73,71,80,1,Left
+Mauro Zárate,Watford,30,1951,176,76,8500000,63000,77,77,79,68,85,33,65,2,Right
+Miguel Britos,Watford,31,1603,190,85,4500000,44000,75,50,34,50,52,76,74,2,Left
+Molla Wagué,Watford,26,1491,191,87,6000000,24000,74,58,33,41,44,74,81,1,Right
+Nathaniel Chalobah,Watford,22,1938,185,76,9000000,38000,75,67,61,70,74,73,73,1,Right
+Orestis Karnezis,Watford,31,1212,190,81,13500000,30000,82,80,83,70,84,39,80,2,Right
+Roberto Pereyra,Watford,26,2078,182,77,18000000,69000,80,78,68,80,81,66,68,2,Right
+Sebastian Prodl,Watford,30,1526,196,97,9500000,63000,79,37,36,50,40,80,81,2,Right
+Stefano Okaka,Watford,27,1734,186,90,9500000,63000,77,73,74,57,72,27,83,2,Right
+Tom Cleverley,Watford,27,1972,175,67,8000000,58000,76,67,69,75,75,58,65,2,Right
+Troy Deeney,Watford,29,1918,183,90,10500000,65000,78,65,81,65,69,35,85,2,Right
+Will Hughes,Watford,22,1893,185,74,10000000,42000,75,66,59,72,77,65,65,1,Left
+Younès Kaboul,Watford,31,1720,193,87,4500000,44000,75,52,44,56,55,74,79,2,Right
+Ahmed Hegazy,West Bromwich Albion,26,1411,195,83,4200000,52000,73,45,20,41,47,74,76,1,Right
+Alex Palmer,West Bromwich Albion,20,918,183,72,110000,4000,56,63,51,60,60,32,50,1,Right
+Allan Nyom,West Bromwich Albion,29,1863,188,81,6500000,65000,77,75,47,63,67,78,83,2,Right
+Ben Foster,West Bromwich Albion,34,1241,193,90,6000000,60000,80,79,79,73,84,49,77,2,Left
+Boaz Myhill,West Bromwich Albion,34,1190,191,92,1600000,42000,73,74,71,69,78,44,70,1,Right
+Chris Brunt,West Bromwich Albion,32,2046,185,84,5000000,57000,75,59,74,79,75,65,67,2,Left
+Claudio Yacob,West Bromwich Albion,29,1856,181,73,10000000,78000,79,43,59,66,69,78,75,2,Right
+Craig Dawson,West Bromwich Albion,27,1730,188,85,6000000,52000,75,65,43,59,60,76,76,2,Right
+Gareth Barry,West Bromwich Albion,36,1983,183,78,1700000,53000,79,32,65,79,68,78,76,2,Left
+Gareth McAuley,West Bromwich Albion,37,1566,191,89,1200000,44000,77,33,43,50,42,79,76,2,Right
+Grzegorz Krychowiak,West Bromwich Albion,27,1992,186,85,17500000,81000,81,65,58,72,66,79,86,3,Right
+Hal Robson-Kanu,West Bromwich Albion,28,1728,183,83,800000,38000,67,71,67,60,68,37,72,1,Left
+Jake Livermore,West Bromwich Albion,27,2004,180,76,7500000,57000,75,64,66,73,72,71,80,2,Right
+James McClean,West Bromwich Albion,28,2003,180,70,5500000,60000,74,77,67,69,76,58,75,2,Left
+James Morrison,West Bromwich Albion,31,2018,178,64,8000000,68000,77,65,76,76,77,60,66,2,Right
+Jay Rodriguez,West Bromwich Albion,27,1863,185,80,8000000,68000,76,77,75,68,76,32,67,2,Right
+Jonny Evans,West Bromwich Albion,29,1706,188,77,10000000,78000,79,65,32,59,52,80,74,2,Right
+Kieran Gibbs,West Bromwich Albion,27,1990,179,70,8500000,62000,78,79,55,70,74,77,72,2,Left
+Matt Phillips,West Bromwich Albion,26,1859,183,75,10500000,68000,77,87,71,69,78,35,71,1,Right
+Nacer Chadli,West Bromwich Albion,27,2006,187,80,11000000,68000,78,76,77,75,78,45,76,2,Right
+Oliver Burke,West Bromwich Albion,20,1686,188,74,3900000,32000,70,90,62,60,71,36,69,1,Right
+Salomón Rondón,West Bromwich Albion,27,1792,186,86,16000000,89000,80,75,77,56,74,31,80,2,Right
+Sam Field,West Bromwich Albion,19,1678,185,65,950000,9000,64,60,49,63,62,52,63,1,Left
+Taylor Morrison,West Bromwich Albion,17,1481,181,79,190000,4000,58,75,34,39,61,57,58,1,Left
+Aaron Cresswell,West Ham United,27,2025,170,66,7000000,83000,76,76,59,72,76,73,68,2,Left
+Adrián San Miguel Castillo,West Ham United,30,1246,190,80,8000000,80000,79,81,76,69,83,45,75,2,Right
+André Ayew,West Ham United,27,2086,176,72,13000000,110000,79,75,74,75,79,56,77,3,Left
+Andy Carroll,West Ham United,28,1913,193,79,10500000,105000,78,62,78,61,68,49,85,2,Left
+Angelo Ogbonna,West Ham United,29,1726,191,86,10000000,105000,79,70,40,58,60,81,76,2,Left
+Antonio Martínez López,West Ham United,20,1483,180,70,675000,13000,62,72,61,47,58,21,56,1,Right
+Arthur Masuaku,West Ham United,23,2016,179,70,7500000,60000,75,86,66,70,78,70,73,1,Left
+Cheikhou Kouyaté,West Ham United,27,1983,189,83,8500000,83000,77,74,65,61,69,77,88,2,Right
+Diafra Sakho,West Ham United,27,1797,184,79,8000000,83000,75,73,72,58,72,31,72,1,Right
+Doneil Henry,West Ham United,24,1575,188,82,750000,17000,66,63,44,49,48,63,75,1,Right
+Edimilson Fernandes,West Ham United,21,1828,190,77,1900000,35000,69,80,67,67,71,52,69,1,Right
+James Collins,West Ham United,33,1617,188,83,3100000,83000,76,31,47,53,43,77,80,2,Right
+Javier Hernández,West Ham United,29,1917,175,73,22000000,135000,82,79,80,66,78,31,59,3,Right
+Joe Hart,West Ham United,30,1312,196,91,14000000,110000,82,81,78,75,83,60,80,3,Right
+José Miguel da Rocha Fonte,West Ham United,33,1630,187,81,5000000,99000,79,43,35,52,60,79,77,3,Right
+Manuel Lanzini,West Ham United,24,1926,167,59,24500000,95000,81,82,71,78,86,28,55,2,Right
+Mark Noble,West Ham United,30,2013,180,76,5500000,83000,76,46,66,75,74,70,76,2,Right
+Marko Arnautovic,West Ham United,28,2094,192,83,22500000,125000,82,77,74,79,81,53,81,3,Right
+Michail Antonio,West Ham United,27,2074,178,80,17500000,120000,80,85,74,70,81,52,82,2,Right
+Pablo Zabaleta,West Ham United,32,2033,178,74,7000000,99000,79,61,56,70,73,81,78,3,Right
+Pedro Mba Obiang Avomo,West Ham United,25,1990,185,75,10000000,79000,77,68,59,75,74,75,77,2,Right
+Sam Byram,West Ham United,23,1925,180,72,4500000,60000,73,75,60,66,72,70,73,1,Right
+Winston Reid,West Ham United,28,1753,190,87,11500000,105000,79,69,52,49,50,80,81,2,Right
