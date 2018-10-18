@@ -1,5 +1,12 @@
 # Fifa Rating Project - Author: Phil Nguyen
 
+Foreword:
+
+
+This repository is for project on soccer players' ratings prediction. This project started in Fall 2017 for my MATH 242 class. Recently, I have been continuing to work on this project for further analysis in one of my classes. The data is retrieved from Kaggle, and I have the full authority to use the data. 
+
+
+
 Data Description:
 
 The data that we have is a combination of the two datasets: the players valuation of the 20 teams in English Premier League in the season of 2017/2018 dataset and the completed details of players in FIFA 18 dataset. The first dataset contains of basic information of players like the club that they play in, age, position, market value, Fantasy Premier League (FPL) value, and nationality. The second dataset contains of attributes of all the players in the game FIFA 18, such as pace, passing skills, shooting skills, dribbling skills, etc. All the attributes are quantified in a scale of 1-99. Both datasets are extracted from the public repository Kaggle.com, and are available for public use. We believe that the data from the combination of the two datasets are more than sufficient for us to do our analysis.
